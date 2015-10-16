@@ -6,9 +6,9 @@
 &emsp;&emsp;&nbsp;Handoff中使用了一个“活动”的概念，它可以在多台设备间传递用户的“活动”。当用户从一台设备切换到另一台设备后，用户完全可以不中断原有的“活动”，也不需要重新配置应用程序。在这个过程中，Handoff将自动在iOS设备和Mac间保持应用程序的同步。
 
 ##2.应用截图
-![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/1.png)<br/><br/>
-![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/2.png)<br/><br/>
-![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/3.png)<br/><br/>
+![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/1.PNG)<br/><br/>
+![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/2.PNG)<br/><br/>
+![Alt text](https://github.com/chenyufeng1991/Handoff/raw/master/Screenshots/3.PNG)<br/><br/>
 
 ##3.技术博客
 我的个人技术博客：[http://blog.csdn.net/chenyufeng1991](http://blog.csdn.net/chenyufeng1991) 。欢迎大家访问！
